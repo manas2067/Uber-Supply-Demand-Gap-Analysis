@@ -42,6 +42,7 @@ This project analyzes the Uber Supply Demand Gap dataset to identify demand-supp
 - Uber Request Data.csv
 - Uber_Dashboard.xlsx
 - Uber_Database.db
+- SQL_Queries.sql
 
 ## Author
 **Manas Mahesh Kadu**
